@@ -1,0 +1,77 @@
+.jumbotron {
+    background: white;
+}
+
+a {
+    color: black;
+}
+
+.pdtb-30 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.pd1530 {
+    padding: 10px 30px;
+}
+
+.pd2 {
+    padding: 2rem;
+}
+
+.bd8C43FF {
+    border-color: #8C43FF;
+}
+
+.cr8C43FF {
+    color: #8C43FF;
+}
+
+.br290486px {
+    border-radius: 290486px;
+}
+
+#contactbutton:hover {
+    color: white;
+    background-color: #8C43FF;
+    border-color: #8C43FF;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.mb-15 {
+    margin-bottom: 15px;
+}
+
+.mr-15 {
+    margin-right: 15px;
+}
+
+.mb-0 {
+    margin-bottom: 0!important;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.ls-5 {
+    letter-spacing: 5px;
+}
+
+.ls-2 {
+    letter-spacing: 2px;
+}
+
+.fs-5 {
+    font-size: 5rem;
+}
+
+@media (min-width: 992px) {
+    .content {
+        padding: 0 15%;
+    }
+}
+
